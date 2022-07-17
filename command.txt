@@ -3,3 +3,4 @@ git status - to check the no .of files
 git add - to add the file to staging area
 git rm --cached - to undo the file from staging area
 git config --global Username "Firstname Lastname"
+[master d7d86c6] - this is the commit id for your file
