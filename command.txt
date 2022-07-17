@@ -1,0 +1,5 @@
+git init - to initialise repository
+git status - to check the no .of files
+git add - to add the file to staging area
+git rm --cached - to undo the file from staging area
+git config --global Username "Firstname Lastname"
